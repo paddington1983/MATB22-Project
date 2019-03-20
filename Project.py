@@ -12,6 +12,8 @@ from scipy import optimize
 from sympy import Symbol, solvers
 from mpl_toolkits.mplot3d import Axes3D
 
+from decimal import Decimal
+
 
 # TASK 1
 print("TASK 1")
